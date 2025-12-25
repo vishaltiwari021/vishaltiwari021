@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a software developer who enjoys building web a
 
 ## 📈 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaltiwari021&show_icons=true&theme=dark)
-
-
+![](https://github-readme-stats.vercel.app/api?username=vishaltiwari021&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vishaltiwari021&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltiwari021&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 📫 How to reach me
 - Email:vishaltiwarivt021@gmail.com
 - LinkedIn: [Vishal Tiwari](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/vishal-tiwari-175a71326/))
