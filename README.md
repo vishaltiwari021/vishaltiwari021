@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m an aspiring software developer who loves bui
 
 
 ## 📈 GitHub Stats
-![](https://github-readme-activity-graph.vercel.app/graph?username=patanjalisharma&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=vishaltiwari021&theme=react-dark)
 ![](https://github-readme-stats.vercel.app/api?username=vishaltiwari021&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vishaltiwari021&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltiwari021&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
